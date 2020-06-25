@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.exe.config
+C:\Users\admin\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.exe
+C:\Users\admin\source\repos\Clipboard\Clipboard\bin\Debug\Clipboard.pdb
+C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.exe
+C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.pdb
