@@ -5,3 +5,10 @@ C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csprojAssemb
 C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.csproj.CoreCompileInputs.cache
 C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.exe
 C:\Users\admin\source\repos\Clipboard\Clipboard\obj\Debug\Clipboard.pdb
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\bin\Debug\Clipboard.exe.config
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\bin\Debug\Clipboard.exe
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\bin\Debug\Clipboard.pdb
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\obj\Debug\Clipboard.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\obj\Debug\Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\obj\Debug\Clipboard.exe
+C:\Users\admin\source\repos\Clipboard\Clipboard\clipboardTotext\obj\Debug\Clipboard.pdb

@@ -16,7 +16,7 @@ namespace Clipboarder
             
             StreamWriter streamWriter;
             //公共变量
-            string @path = @"C:\Users\admin\Deskto\";
+            string @path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
             string @s=@"";
             string @sp = @"";
             //string @jiance = "当前为空剪切板";
@@ -60,14 +60,13 @@ namespace Clipboarder
                 {
                     @sp = "字符太少了";
                 }
-
+                
                 if (File.Exists(@path + @sp)!=true)
                 {
                    FileStream f = File.Create(@path + @sp);
                     streamWriter = new StreamWriter(f);
                     streamWriter.Write(@s);
                     streamWriter.Flush();
-
                     streamWriter.Close();
                 }
                
